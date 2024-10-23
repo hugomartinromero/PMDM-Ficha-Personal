@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="btn_registro">#1f56c6</color>
+    <color name="btn_nuevo_registro">#59a936</color>
 </resources>

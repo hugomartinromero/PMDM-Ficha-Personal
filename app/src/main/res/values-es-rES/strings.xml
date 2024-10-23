@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="curso">Curso</string>
+    <string name="lenguajes">Lenguajes</string>
+    <string name="nuevo_registro">NUEVO REGISTRO</string>
+    <string name="nombre">Nombre</string>
+</resources>
