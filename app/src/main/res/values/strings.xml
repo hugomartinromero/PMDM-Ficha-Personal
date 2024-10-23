@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ficha Personal</string>
+    <string name="curso">Curso</string>
+    <string name="lenguajes">Lenguajes</string>
+    <string name="nuevo_registro">NUEVO REGISTRO</string>
+    <string name="nombre">Nombre</string>
+</resources>
